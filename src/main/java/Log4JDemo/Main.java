@@ -25,7 +25,7 @@ public class Main {
             logger.info("ini adalah info message : " + msg);
         }
 
-        logger.warn("Ini adalah warn message : " + msg);
+        logger.warn("Ini adalah warning message : " + msg);
         logger.error("Ini adalah error message : " + msg);
         logger.fatal("Ini adalah fatal message : " + msg);
 
